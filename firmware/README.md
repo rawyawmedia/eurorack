@@ -1,7 +1,7 @@
 # Instructions for flashing firmwares:
 
 * Unplug your module from your case.
-* Download your desired firmware above.
+* Download the desired firmware above.
 * Attach your module to your mac/pc using a micro usb cable.
 * Use the [daisy seed web programmer](https://electro-smith.github.io/Programmer/) to flash the firmware.
 
