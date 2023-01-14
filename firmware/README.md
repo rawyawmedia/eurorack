@@ -9,9 +9,9 @@
 
 # Release Notes:
 
-## [Monolith.0.0.2-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.1.bin)
+### [Monolith.0.0.2-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.1.bin)
 
-### changes:
+#### changes:
 * pop reduction was added to the fm processing
 * the input audio signal is now fed through the dj filter when fm is off and the blend knob is turned up
 * fm output is fed through the dj filter
@@ -19,11 +19,11 @@
 * dj filter frequencies have changed; dj filter cv input now has a different response
 * wet cv input now has a different response
 
-## [Dizygote.0.0.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.1.bin)
+### [Dizygote.0.0.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.1.bin)
 
 dizygote is an a-side/b-side digital oscillator with a built-in envelope generator. the a-side builds harmonies with a square waveform and frequency modulation. the b-side distorts a sine waveform with phase modulation.
 
-### inputs:
+#### inputs:
 
 trig - button and gate in to trigger oscillator amplitude envelopes
 switch - button and gate in for toggling between the a and b sides
@@ -33,16 +33,16 @@ mfreq - knob and cv in for changing the phase and fm modulation frequencies
 freq - knob for setting the oscillator frequency
 v/oct - voltage per octave cv for modulating the oscillator frequency
 
-### outputs:
+#### outputs:
 
 out l and out r - audio output
 env - cv envelope out
 
-## [Monolith.0.0.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.1.bin)
+### [Monolith.0.0.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.1.bin)
 
 monolith is a pitch-shifter reverb inspired by west coast synthesis techniques. It utilizes a time-domain based FM algorithm that acts as a shimmer.
 
-### inputs:
+#### inputs:
 
 in l and in r - audio input, left will be converted to stereo if there is no right input
 blend - knob and CV for controlling the fade between the dry and fm audio signals
@@ -55,7 +55,7 @@ freq and v/oct - knob and CV for controlling the frequency of the FM modulator o
 shape - knob and CV for controlling FM modulator oscillator shape. shape wavetable transitions from sine wave (8 o’clock) to triangle wave (12 o’clock) to square wave (4 o’clock).
 clock - CV gate for tempo syncing modulator oscillator period.
 
-### outputs:
+#### outputs:
 
 out l and out r - audio output
 gate - CV gate out that is period synced with the FM modulator oscillator
