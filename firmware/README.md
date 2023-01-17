@@ -9,6 +9,14 @@
 
 # Release Notes:
 
+### [Dizygote.0.0.2-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.2-beta.1.bin)
+
+#### changes:
+* pressing and holding the trig button puts the envelope into a loop state
+* pressing and holding the switch button converts the two stereo voices into two mono outputs
+* if the switch leds are flashing, the module is in the new mono state
+
+
 ### [Monolith.0.0.2-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.1.bin)
 
 #### changes:
