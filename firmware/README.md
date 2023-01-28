@@ -12,7 +12,7 @@
 ### [Monolith.0.0.2-beta.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.2.bin)
 
 #### changes:
-* dj filter frequencies responses are different
+* dj filter frequency responses are different
 * reverb delay lines have different saturation behaviors to reduce digital noise
 
 ### [Dizygote.0.0.2-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.2-beta.1.bin)
