@@ -9,6 +9,11 @@
 
 # Release Notes:
 
+### [Monolith.0.0.2-beta.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.3-beta.2.bin)
+
+#### changes:
+* input has different saturation behavior
+
 ### [Monolith.0.0.2-beta.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.2.bin)
 
 #### changes:
