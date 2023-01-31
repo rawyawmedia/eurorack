@@ -9,6 +9,11 @@
 
 # Release Notes:
 
+### [Monolith.0.0.2-beta.4.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.4-beta.2.bin)
+
+#### changes:
+* fm effect is louder in the mix
+
 ### [Monolith.0.0.2-beta.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.3-beta.2.bin)
 
 #### changes:
