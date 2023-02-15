@@ -9,6 +9,11 @@
 
 # Release Notes:
 
+### [Monolith.0.0.2-beta.6.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.6-beta.2.bin)
+
+#### changes:
+* revert some accidental filter behavior changes
+
 ### [Monolith.0.0.2-beta.5.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.5-beta.2.bin)
 
 #### changes:
