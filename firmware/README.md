@@ -9,6 +9,16 @@
 
 # Release Notes:
 
+### [Monolith.0.0.2-beta.5.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.5-beta.2.bin)
+
+#### changes:
+* additional changes were made to improve pop reduction for the fm processing
+* the initial fm signal is now soft clipped (in previous beta firmwares, rapid modulation of the v/oct and freq parameters could result in notable gain changes)
+* press and hold for the on button allows the fm signal to bypass the dj filter
+* if the on button is flashing, the fm signal is bypassing the dj filter
+* press and hold for the quant button enables a secondary fm modulation behavior
+* if the quant button is flashing, the secondary fm modulation behavior is enabled
+
 ### [Monolith.0.0.2-beta.4.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.4-beta.2.bin)
 
 #### changes:
