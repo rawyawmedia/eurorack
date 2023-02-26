@@ -9,12 +9,18 @@
 
 # Release Notes:
 
-### [Monolith.0.0.2-beta.6.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.6-beta.2.bin)
+### [Monolith.0.0.2-beta.7.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.7.bin)
+
+#### changes:
+* remove saturation behavior from clean fm signal
+
+
+### [Monolith.0.0.2-beta.6.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.6.bin)
 
 #### changes:
 * revert some accidental filter behavior changes
 
-### [Monolith.0.0.2-beta.5.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.5-beta.2.bin)
+### [Monolith.0.0.2-beta.5.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.5.bin)
 
 #### changes:
 * additional changes were made to improve pop reduction for the fm processing
@@ -24,12 +30,12 @@
 * press and hold for the quant button enables a secondary fm modulation behavior
 * if the quant button is flashing, the secondary fm modulation behavior is enabled
 
-### [Monolith.0.0.2-beta.4.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.4-beta.2.bin)
+### [Monolith.0.0.2-beta.4.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.4.bin)
 
 #### changes:
 * fm effect is louder in the mix
 
-### [Monolith.0.0.2-beta.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.3-beta.2.bin)
+### [Monolith.0.0.2-beta.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.3.bin)
 
 #### changes:
 * audio input has different saturation behavior
