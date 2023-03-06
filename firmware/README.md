@@ -9,6 +9,12 @@
 
 # Release Notes:
 
+### [Monolith.0.0.2-beta.8.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.8.bin)
+
+#### changes:
+* some dampening was added to the delay lines
+* changes were made to the wet knob and cv response
+
 ### [Dizygote.0.0.2-beta.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.2-beta.3.bin)
 
 #### changes:
