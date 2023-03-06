@@ -9,6 +9,12 @@
 
 # Release Notes:
 
+### [Dizygote.0.0.2-beta.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.2-beta.3.bin)
+
+#### changes:
+* change b-side/phase-modulation-sine-wave detune region
+* apply cv filtering to mod cv input and envelope cv output
+
 ### [Monolith.0.0.2-beta.7.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.7.bin)
 
 #### changes:
