@@ -9,6 +9,11 @@
 
 # Release Notes:
 
+### [Monolith.0.0.2-beta.9.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.9.bin)
+
+#### changes:
+* Soft clipping saturation behaviors replaced with tanh
+
 ### [Monolith.0.0.2-beta.8.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.8.bin)
 
 #### changes:
