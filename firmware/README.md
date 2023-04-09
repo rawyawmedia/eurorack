@@ -9,6 +9,12 @@
 
 # Release Notes:
 
+### [Monolith.0.0.2-beta.10.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.10.bin)
+
+#### changes:
+* Revert tanh change out for soft clipping saturation behaviors.
+* Apply additional gain to final output.
+
 ### [Monolith.0.0.2-beta.9.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.9.bin)
 
 #### changes:
