@@ -9,11 +9,17 @@
 
 # Release Notes:
 
+### [Dizygote.0.0.2-beta.5.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.2-beta.5.bin)
+
+#### changes:
+* press and hold button states are now saved across power on/off.
+* The leds for button states now flash at a faster rate.
+
 ### [Monolith.0.0.2-beta.11.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.11.bin)
 
 #### changes:
 * FM dj filter bypass is now the default mode. Pressing and holding the on button will result in the fm signal being fed through the dj filter.
-* Monolith button states are now saved across sessions.
+* Monolith button states are now saved across power on/off.
 * The leds for button states now flash at a faster rate.
 
 ### [Monolith.0.0.2-beta.10.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.10.bin)
