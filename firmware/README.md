@@ -9,6 +9,12 @@
 
 # Release Notes:
 
+### [Monolith.0.0.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2.bin)
+
+#### changes:
+* This firmware is a combination of all changes found below.
+* In addition to all items below, blend min/max regions were updated for better behaviors.
+
 ### [Dizygote.0.0.2-beta.5.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.2-beta.5.bin)
 
 #### changes:
