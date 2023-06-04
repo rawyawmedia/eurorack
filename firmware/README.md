@@ -15,12 +15,6 @@
 * This firmware is a combination of all Monolith.0.0.2-beta.*.bin changes found below.
 * Blend min/max cv/knob values were updated to have min and max regions for better behavior.
 
-### [Dizygote.0.0.2-beta.5.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.2-beta.5.bin)
-
-#### changes:
-* press and hold button states are now saved across power on/off.
-* The leds for button states now flash at a faster rate.
-
 ### [Monolith.0.0.2-beta.11.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.11.bin)
 
 #### changes:
