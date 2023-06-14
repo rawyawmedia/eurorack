@@ -15,48 +15,48 @@
 * This firmware is a combination of all Monolith.0.0.2-beta.*.bin changes found below.
 * Blend min/max cv/knob values were updated to have min and max regions for better behavior.
 
-### [Monolith.0.0.2-beta.11.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.11.bin)
+### [Monolith.0.0.2-beta.11.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.2-beta.11.bin)
 
 #### changes:
 * FM dj filter bypass is now the default mode. Pressing and holding the on button will result in the fm signal being fed through the dj filter.
 * Monolith button states are now saved across power on/off.
 * The leds for button states now flash at a faster rate.
 
-### [Monolith.0.0.2-beta.10.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.10.bin)
+### [Monolith.0.0.2-beta.10.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.2-beta.10.bin)
 
 #### changes:
 * Revert tanh change out for soft clipping saturation behaviors.
 * Apply additional gain to final output.
 
-### [Monolith.0.0.2-beta.9.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.9.bin)
+### [Monolith.0.0.2-beta.9.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.2-beta.9.bin)
 
 #### changes:
 * Soft clipping saturation behaviors replaced with tanh
 
-### [Monolith.0.0.2-beta.8.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.8.bin)
+### [Monolith.0.0.2-beta.8.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.2-beta.8.bin)
 
 #### changes:
 * some dampening was added to the delay lines
 * changes were made to the wet knob and cv response
 
-### [Dizygote.0.0.2-beta.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.2-beta.3.bin)
+### [Dizygote.0.0.2-beta.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Dizygote.0.0.2-beta.3.bin)
 
 #### changes:
 * change b-side/phase-modulation-sine-wave detune region
 * apply cv filtering to mod cv input and envelope cv output
 
-### [Monolith.0.0.2-beta.7.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.7.bin)
+### [Monolith.0.0.2-beta.7.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.2-beta.7.bin)
 
 #### changes:
 * remove saturation behavior from clean fm signal
 
 
-### [Monolith.0.0.2-beta.6.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.6.bin)
+### [Monolith.0.0.2-beta.6.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.2-beta.6.bin)
 
 #### changes:
 * revert some accidental filter behavior changes
 
-### [Monolith.0.0.2-beta.5.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.5.bin)
+### [Monolith.0.0.2-beta.5.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.2-beta.5.bin)
 
 #### changes:
 * additional changes were made to improve pop reduction for the fm processing
@@ -66,23 +66,23 @@
 * press and hold for the quant button enables a secondary fm modulation behavior
 * if the quant button is flashing, the secondary fm modulation behavior is enabled
 
-### [Monolith.0.0.2-beta.4.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.4.bin)
+### [Monolith.0.0.2-beta.4.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.2-beta.4.bin)
 
 #### changes:
 * fm effect is louder in the mix
 
-### [Monolith.0.0.2-beta.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.3.bin)
+### [Monolith.0.0.2-beta.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.2-beta.3.bin)
 
 #### changes:
 * audio input has different saturation behavior
 
-### [Monolith.0.0.2-beta.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.2.bin)
+### [Monolith.0.0.2-beta.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.2-beta.2.bin)
 
 #### changes:
 * dj filter frequency responses are different
 * reverb delay lines have different saturation behaviors to reduce digital noise
 
-### [Dizygote.0.0.2-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.2-beta.1.bin)
+### [Dizygote.0.0.2-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Dizygote.0.0.2-beta.1.bin)
 
 #### changes:
 * pressing and holding the trig button puts the envelope into a loop state
@@ -90,7 +90,7 @@
 * if the switch leds are flashing, the module is in the new mono state
 
 
-### [Monolith.0.0.2-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2-beta.1.bin)
+### [Monolith.0.0.2-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.2-beta.1.bin)
 
 #### changes:
 * pop reduction was added to the fm processing
