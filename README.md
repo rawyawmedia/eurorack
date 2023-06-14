@@ -1,1 +1,1 @@
-good luck blowing up
+good luck
