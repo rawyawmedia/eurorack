@@ -1,3 +1,1 @@
-![blue](images/bluesticker.png)
-![purple](images/purplesticker.png)
-![red](images/redsticker.png)
+![blue](images/1920x1080logo.png)
