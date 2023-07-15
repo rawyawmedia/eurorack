@@ -9,6 +9,16 @@
 
 # Release Notes:
 
+### [Dizygote.0.0.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.2.bin)
+
+#### changes:
+* This firmware is a combination of all Dizygote.0.0.2-beta.*.bin changes found below.
+* pressing nad holding the trig button will now toggle between a looping envelope state.
+* pressing and holding the switch button will toggle the device between stereo and mono mode. When in mono mode, the a oscillator will be output through the left audio output; the b oscillator will be output through the right audio output. When in mono mode, switch leds will flash.
+* looping envelope and mono/stereo states will be persisted across device reboots.
+
+> WARNING: Updating to this firmware from Dizygote.0.0.1.bin will require recalibrating v/oct input. Instructions for recalibrating Dizygote can be found in the [Dizygote user manuals](https://github.com/rawyawmedia/eurorack/raw/main/manuals).
+
 ### [Monolith.0.0.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2.bin)
 
 #### changes:
