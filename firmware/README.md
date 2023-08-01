@@ -7,8 +7,6 @@
 
 > Note: The daisy web programmer requires a chrome browser to work correctly. The daisy web programmer page also has additional instructions that can be viewed by pressing 'Display Help'.
 
-![firmware.flashing.video](../videos/firmware.flashing.video.mp4)
-
 # Release Notes:
 
 ### [Dizygote.0.0.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.2.bin)
