@@ -9,6 +9,14 @@
 
 # Release Notes:
 
+### [Dizygote.0.0.3-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.3-beta.1.bin)
+
+#### changes:
+* Envelope sizes are changed to something easier to play live with the length knob.
+* Square wave FM offsets are updated to perfect intervals.
+
+> WARNING: Updating to this firmware from Dizygote.0.0.1.bin will require recalibrating v/oct input. Instructions for recalibrating Dizygote can be found in the [Dizygote user manuals](https://github.com/rawyawmedia/eurorack/raw/main/manuals).
+
 ### [Dizygote.0.0.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.2.bin)
 
 #### changes:
