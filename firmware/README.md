@@ -9,7 +9,7 @@
 
 # Release Notes:
 
-### [Dizygote.0.0.3-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.3-beta.1.bin)
+### [Dizygote.0.0.3-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Dizygote.0.0.3-beta.1.bin)
 
 #### changes:
 * Envelope sizes are changed to something easier to play live with the length knob.
