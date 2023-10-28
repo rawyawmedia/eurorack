@@ -9,6 +9,12 @@
 
 # Release Notes:
 
+### [Monolith.0.0.3-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.1.bin)
+
+#### changes:
+* Additional noises is added to the reverb lines to counter act noise floor build up.
+* The blend knob fade behavior is changed to act similar to torus's mix knob.
+
 ### [Dizygote.0.0.3-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Dizygote.0.0.3-beta.1.bin)
 
 #### changes:
