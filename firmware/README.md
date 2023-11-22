@@ -9,6 +9,15 @@
 
 # Release Notes:
 
+### [Dizygote.0.0.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.3.bin)
+
+#### changes:
+* This firmware is a combination of all Dizygote.0.0.2-beta.*.bin changes found below.
+* Envelope sizes are changed to something easier to play live with the length knob.
+* Square wave FM offsets are updated to perfect intervals.
+
+> WARNING: Updating to this firmware from Dizygote.0.0.1.bin will require recalibrating v/oct input. Instructions for recalibrating Dizygote can be found in the [Dizygote user manuals](https://github.com/rawyawmedia/eurorack/raw/main/manuals). Note that Dizygote.0.0.2-calibrator.bin can be used to calibrate for Dizygote.0.0.2+ firwmares.
+
 ### [Monolith.0.0.3-beta.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.2.bin)
 
 #### changes:
