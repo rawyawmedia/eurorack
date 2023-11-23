@@ -12,7 +12,7 @@
 ### [Dizygote.0.0.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.3.bin)
 
 #### changes:
-* This firmware is a combination of all Dizygote.0.0.2-beta.*.bin changes found below.
+* This firmware is a combination of all Dizygote.0.0.3-beta.*.bin changes found below.
 * Envelope sizes are changed to something easier to play live with the length knob.
 * Square wave FM offsets are updated to perfect intervals.
 
