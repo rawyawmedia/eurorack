@@ -9,6 +9,12 @@
 
 # Release Notes:
 
+### [Torus.0.0.2-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Torus.0.0.2-beta.1.bin)
+
+#### changes:
+* When the buffer contains recordings and is receiving a clock in signal, it will now wait indefinitely for the next clock in signal before playing another step.
+* Some unnecessary soft clipping was removed from the final processing path.
+
 ### [Dizygote.0.0.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Dizygote.0.0.3.bin)
 
 #### changes:
