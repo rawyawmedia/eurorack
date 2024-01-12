@@ -14,7 +14,7 @@
 #### changes:
 * Some soft clipping is removed from master summing.
 * Some delay line summing behaviors are changed.
-* Some delay line filtering behaviors vary subtly when changing the shape knob.
+* Some delay line filtering behaviors now vary subtly when changing the shape knob.
 
 ### [Torus.0.0.2-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Torus.0.0.2-beta.1.bin)
 
