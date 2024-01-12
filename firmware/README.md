@@ -9,6 +9,13 @@
 
 # Release Notes:
 
+### [Monolith.0.0.3-beta.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.3.bin)
+
+#### changes:
+* Some soft clipping is removed from master summing.
+* Some delay line summing behaviors are changed.
+* Some delay line filtering behaviors vary subtly when changing the shape knob.
+
 ### [Torus.0.0.2-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Torus.0.0.2-beta.1.bin)
 
 #### changes:
