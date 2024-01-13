@@ -9,6 +9,11 @@
 
 # Release Notes:
 
+### [Monolith.0.0.3-beta.4.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.4.bin)
+
+#### changes:
+* When fm is enabled, the raw fm signal is fed into the reverb delay lines.
+
 ### [Monolith.0.0.3-beta.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.3.bin)
 
 #### changes:
