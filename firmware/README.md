@@ -9,6 +9,11 @@
 
 # Release Notes:
 
+### [Torus.0.0.2-beta.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Torus.0.0.2-beta.2.bin)
+
+#### changes:
+* Debouncing is improved for clear, record and reverse buttons.
+
 ### [Monolith.0.0.3-beta.4.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.4.bin)
 
 #### changes:
