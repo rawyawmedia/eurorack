@@ -9,6 +9,13 @@
 
 # Release Notes:
 
+### [Monolith.0.0.3-beta.5.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.5.bin)
+
+#### changes:
+* FM buffer loud blasts based on frequency/voct changes are subdued.
+
+> NOTE: this change also results in a patch fix for [Monolith.0.0.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Monolith.0.0.2.bin)
+
 ### [Torus.0.0.2-beta.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Torus.0.0.2-beta.2.bin)
 
 #### changes:
