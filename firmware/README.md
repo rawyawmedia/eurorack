@@ -9,6 +9,13 @@
 
 # Release Notes:
 
+### [Torus.0.0.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Torus.0.0.2.bin)
+
+#### changes:
+* Improvements from Torus.0.0.2-beta.1.bin and Torus.0.0.2-beta.2.bin
+* Clock output no longer fires when system clock is waiting for clock trigger in.
+* Additional debounce time tunings for easier usage.
+
 ### [Monolith.0.0.3-beta.5.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.5.bin)
 
 #### changes:
