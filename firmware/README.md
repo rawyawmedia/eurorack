@@ -9,6 +9,11 @@
 
 # Release Notes:
 
+### [Monolith.0.0.3-beta.7.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.7.bin)
+
+#### changes:
+* Additional delay line clean up
+
 ### [Torus.0.0.3-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Torus.0.0.3-beta.1.bin)
 
 #### changes:
