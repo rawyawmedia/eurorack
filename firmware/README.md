@@ -23,8 +23,6 @@
 * Updates clear behaviors to work better with multi part support
 * Changes recording behavior when two parts are playing but only one contains a recording. Now, the empty pattern will record first without impacting the already recorded pattern. Recording will stop once the empty pattern is filled. Once both patterns contain data, recording will resume impacting both patterns.
 
-# Release Notes:
-
 ### [Monolith.0.0.3-beta.6.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.6.bin)
 
 #### changes:
