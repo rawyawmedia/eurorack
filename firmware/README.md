@@ -9,11 +9,22 @@
 
 # Release Notes:
 
+### [Torus.0.0.3-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Torus.0.0.3-beta.1.bin)
+
+#### changes:
+* Fixes bugs related to exiting chained sequences
+* Adds a cap to multi part group size (two) to avoid distortion related to under performant audio interrupts
+* Enables creating multi part sequences without pressing chain
+* Updates clear behaviors to work better with multi part support
+* Changes recording behavior when two parts are playing but only one contains a recording. Now, the empty pattern will record first without impacting the already recorded pattern. Recording will stop once the empty pattern is filled. Once both patterns contain data, recording will resume impacting both patterns.
+
+# Release Notes:
+
 ### [Monolith.0.0.3-beta.6.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.6.bin)
 
 #### changes:
 * Some delay line clipping is cleaned up
-* delay line delay lengths are increased
+* Delay line delay lengths are increased
 
 ### [Torus.0.0.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Torus.0.0.2.bin)
 
