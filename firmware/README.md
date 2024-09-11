@@ -9,6 +9,13 @@
 
 # Release Notes:
 
+### [Monolith.0.0.3-beta.8.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.8.bin)
+
+#### changes:
+* Better dampening is applied during the higher pitch portion of fm modulation
+* Smoothing is applied to mod knob when fm quantization is on and knob value is near zero
+* When mod is turned to zero and modulation is on, only amplitude modulation is applied to the input signal
+
 ### [Torus.0.0.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/Torus.0.0.3.bin)
 
 #### changes:
