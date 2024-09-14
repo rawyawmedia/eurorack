@@ -9,6 +9,11 @@
 
 # Release Notes:
 
+### [Monolith.0.0.3-beta.9.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.9.bin)
+
+#### changes:
+* Update behavior when fm is set to zero and some strange noises may be occurring due to a playback speed calculation.
+
 ### [Monolith.0.0.3-beta.8.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.8.bin)
 
 #### changes:
