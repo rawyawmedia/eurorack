@@ -9,6 +9,11 @@
 
 # Release Notes:
 
+### [Torus.0.0.4-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Torus.0.0.4-beta.1.bin)
+
+#### changes:
+* chain + harm knob will now allow you to pick between four harmonic pitch tables. first table will be the legacy behavior. second table will be an equal division pitch up playback behavior. third table is now a pitch down equal division playback behavior. table four is a chromatic scale pitch up playback behavior. Note these tables may change in behavior based on feedback from beta testing.
+
 ### [Monolith.0.0.3-beta.9.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.9.bin)
 
 #### changes:
