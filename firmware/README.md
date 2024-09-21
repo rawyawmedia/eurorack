@@ -9,6 +9,11 @@
 
 # Release Notes:
 
+### [Monolith.0.0.3-beta.10.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.10.bin)
+
+#### changes:
+* State based FM pop reducation is changed to a delayed envelope follower strategy.
+
 ### [Torus.0.0.4-beta.1.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Torus.0.0.4-beta.1.bin)
 
 #### changes:
