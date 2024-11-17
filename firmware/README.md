@@ -9,6 +9,11 @@
 
 # Release Notes:
 
+### [Monolith.0.0.3-beta.11.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.11.bin)
+
+#### changes:
+* Additional gain is applied to fm delay line to better balance on/off fm effect reverb behavior.
+
 ### [Monolith.0.0.3-beta.10.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.10.bin)
 
 #### changes:
