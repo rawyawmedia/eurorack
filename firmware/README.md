@@ -9,6 +9,12 @@
 
 # Release Notes:
 
+### [Torus.0.0.4-beta.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Torus.0.0.4-beta.2.bin)
+
+#### changes:
+* chain + knob now has a fifth harmonic table that is an uncalibrated v/oct pitch change.
+* chain + oct +/- can now be used to change the length of a recorded pattern.
+
 ### [Monolith.0.0.3-beta.11.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Monolith.0.0.3-beta.11.bin)
 
 #### changes:
