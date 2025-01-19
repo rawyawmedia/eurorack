@@ -9,6 +9,14 @@
 
 # Release Notes:
 
+### [Torus.0.0.4-beta.3.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Torus.0.0.4-beta.3.bin)
+
+#### changes:
+* chain + mix knob now changes the start position of pattern playback
+* chain + oct up + oct down now prevents pitch changes when the clock changes tempo (clock pitch shifting)
+* when chain + any knob is used, the knob must return to its original position before it will impact the non-chain parameter. all four pattern lights will flash when the knob returns to its original position.
+* clock pitch shifting and harmonic pitch table choices are persisted across reboot.
+
 ### [Torus.0.0.4-beta.2.bin](https://github.com/rawyawmedia/eurorack/raw/main/firmware/beta/Torus.0.0.4-beta.2.bin)
 
 #### changes:
